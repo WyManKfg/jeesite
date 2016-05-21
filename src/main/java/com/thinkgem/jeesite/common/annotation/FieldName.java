@@ -7,6 +7,7 @@ import java.lang.annotation.Target;
 
 /**
  * bean中文名注解
+ * shabiceshi
  */
 @Target(ElementType.METHOD)  
 @Retention(RetentionPolicy.RUNTIME)  
